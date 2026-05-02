@@ -58,5 +58,5 @@ D’aquesta manera, el repositori no només serveix per desar el codi i la docum
 
 ## Enllaços finals
 
-- [Repositori de GitHub:](https://github.com/davidbf1392DAM/AEA4-RA2-A01)
+- [Repositori de GitHub](https://github.com/davidbf1392DAM/AEA4-RA2-A01)
 - Web publicada amb GitHub Pages: pendent d’afegir l’enllaç
