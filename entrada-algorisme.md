@@ -1,12 +1,15 @@
+[Inici](index.md) | [Creació, configuració i ús de GitHub](entrada-github.md) 
 # Càlcul de la lletra del DNI amb Csharp#
 
 En aquesta part de l’activitat he desenvolupat un programa en **C#** utilitzant **Visual Studio Code**. L’objectiu del programa és calcular la lletra corresponent a un número de DNI introduït per l’usuari.  
   
 ## Entorn de desenvolupament  
-  
-Per fer aquesta activitat he utilitzat **Visual Studio Code** com a entorn de desenvolupament i el **SDK de .NET** per poder crear i executar projectes en **C#**. També he treballat amb un projecte de consola de **C#**, que permet executar el programa des de la terminal integrada de **VSCode**.
 
-Per preparar l’entorn he instal·lat l’extensió **C# Dev Kit**, que afegeix suport per treballar amb projectes **C# i .NET** dins de VSCode. Aquesta extensió facilita l’escriptura del codi amb ajuda d’**IntelliSense**, permet detectar errors, navegar pel projecte i executar o depurar aplicacions de consola. També s’han instal·lat les extensions relacionades que **VSCode** necessita per donar suport complet al desenvolupament amb **C#**.
+Per fer aquesta activitat he utilitzat **Visual Studio Code** com a entorn de desenvolupament i el **SDK** de **.NET** per crear, compilar i executar el projecte en llenguatge **C#** des de la terminal.
+
+Per preparar l’entorn he instal·lat l’extensió **C# Dev Kit**, que afegeix suport per treballar amb projectes **C#** i **.NET** dins de **VSCode**. Aquesta extensió facilita l’escriptura del codi amb **IntelliSense**, permet detectar errors, navegar pel projecte i executar o depurar aplicacions de consola.
+
+En instal·lar **C# Dev Kit** també s’han instal·lat extensions relacionades, com **C#** i **.NET Install Tool**, que complementen el suport necessari per desenvolupar aplicacions en **C#** dins de **Visual Studio Code**.
   
 ## Funcionament del programa  
   
@@ -35,7 +38,7 @@ La lletra del DNI és: X
 DNI complet: 87654321X
 ```  
   
-## Prova d’execució 2    
+## Prova d’execució 2  (validació d'entrada)  
 
 En aquesta prova he introduït primer un valor incorrecte, ja que no conté exactament 8 dígits numèrics. El programa detecta l’error i torna a demanar el número del DNI.
 
