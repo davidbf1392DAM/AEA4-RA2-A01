@@ -56,3 +56,8 @@ La lletra del DNI és: X
 DNI complet: 87654321X  
 ```
 
+## Vídeo explicatiu  
+  
+En aquest vídeo explico el llenguatge utilitzat, les extensions instal·lades, el funcionament de l’algorisme i una demostració de l’execució del programa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j29AUkp2ImE?si=S8HdWKf18LAG2Puo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
