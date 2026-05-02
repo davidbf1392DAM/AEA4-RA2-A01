@@ -6,7 +6,8 @@ En aquesta web es recullen les entrades relacionades amb l’activitat AEA4 RA2.
 
 - [Creació, configuració i ús de GitHub](entrada-github.md)
 - [Càlcul de la lletra del DNI amb C#](entrada-algorisme.md)
-- [Codi Font](calcul_dni.cs)
+- [Fitxer de codi C#](codi-font/calcul_dni.cs)  
+- [Fitxer de projecte .NET](codi-font/RA4 - Entorns Desenvolupament Integrats (IDE).csproj)
 
 ## Repositori
 
