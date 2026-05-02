@@ -2,7 +2,7 @@ Aquest repositori conté la documentació i el codi font de l’activitat AEA4 R
 Curs: 1r DAM.  
 # Web publicada  amb Github pages: 
   
-[Accedir a la web](https://davidbf1392dam.github.io/AEA4-RA2-A01/))  
+[Accedir a la web](https://davidbf1392dam.github.io/AEA4-RA2-A01/)
   
 ## Descripció del programa  
   
