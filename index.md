@@ -8,7 +8,3 @@ En aquesta web es recullen les entrades relacionades amb l’activitat AEA4 RA2.
 - [Càlcul de la lletra del DNI amb C#](entrada-algorisme.md)
 - [Fitxer de codi font](codi-font/calcul_dni.cs)  
 - [Fitxer de projecte .NET](codi-font/Calcul_Lletra_Dni.csproj)
-
-## Repositori
-
-En aquest repositori també s’inclou el codi font del programa desenvolupat en C#.
