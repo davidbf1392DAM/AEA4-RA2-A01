@@ -7,9 +7,10 @@ En aquesta web es recullen les entrades relacionades amb l’activitat AEA4 RA2.
 - [Creació, configuració i ús de GitHub](entrada-github.md)
 - [Càlcul de la lletra del DNI amb C#](entrada-algorisme.md)
 
+
 #### Enllaços del programa
+
 - [Descarregar fitxer de codi font](codi-font/calcul_dni.cs)  
 - [Descarregar fitxer de projecte .NET](codi-font/Calcul_Lletra_Dni.csproj)
-#### Repositori de GitHub  
-  
+
 El codi font i els fitxers Markdown d’aquesta activitat es poden consultar al repositori següent:  [Veure el repositori a GitHub](URL_DEL_TEU_REPOSITORI)
