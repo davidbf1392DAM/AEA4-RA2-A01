@@ -53,4 +53,7 @@ Per convertir el repositori en un petit web, he utilitzat **GitHub Pages**. Aque
 
 Per configurar-ho, he accedit al repositori des de GitHub i he entrat a l’apartat de configuració. Dins de l’opció **Pages**, he seleccionat la branca principal del repositori com a origen de publicació.
 
-A partir d’aquesta configuració, **GitHub Pages** genera una adreça web pública on es pot consultar el contingut del repositori. En aquest cas, el web conté una pàgina principal i dues entrades escrites en **Markdown**: una sobre la creació i ús de GitHub, i una altra sobre el desenvolupament del programa en **C#**. A més, també conté dos enllaços per poder descarregar el programa desenvolupat i compilar-lo.
+A partir d’aquesta configuració, **GitHub Pages** genera una adreça web pública on es pot consultar el contingut del repositori. En aquest cas, el web conté una pàgina principal i dues entrades escrites en **Markdown**: una sobre la creació i ús de **GitHub**, i una altra sobre el desenvolupament del programa en **C#**. A més, també conté dos enllaços per poder descarregar el programa desenvolupat i compilar-lo.
+
+Per donar una aparença més cuidada a la web, he configurat un tema de **GitHub Pages** mitjançant el fitxer **config.yml**. En aquest fitxer he indicat el tema **jekyll-theme-cayman**, juntament amb el títol i la descripció de la pàgina. 
+Això m'ha permès millorar l’aspecte visual de la web sense haver de crear fitxers **HTML** o **CSS**.

@@ -12,5 +12,3 @@ En aquesta web es recullen les entrades relacionades amb l’activitat AEA4 RA2.
 
 - [Descarregar fitxer de codi font](codi-font/calcul_dni.cs)  
 - [Descarregar fitxer de projecte .NET](codi-font/Calcul_Lletra_Dni.csproj)
-
-El codi font i els fitxers Markdown d’aquesta activitat es poden consultar al repositori següent:  [Repositori de GitHub](https://github.com/davidbf1392DAM/AEA4-RA2-A01)
